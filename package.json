@@ -1,0 +1,24 @@
+{
+  "name": "xatom-debug-prolog",
+  "main": "./lib/xatom-debug-prolog",
+  "version": "0.0.0",
+  "description": "SWI-Prolog plugin for XAtom Debug",
+  "keywords": [
+  ],
+  "activationCommands": {
+  },
+  "repository": "https://github.com/likelion/xatom-debug-prolog",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  },
+  "consumedServices": {
+    "xatom-debug": {
+      "versions": {
+        "1.0.0": "registerPlugin"
+      }
+    }
+  }
+}
