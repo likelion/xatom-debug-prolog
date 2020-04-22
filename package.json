@@ -2,7 +2,7 @@
   "name": "xatom-debug-prolog",
   "main": "./lib/xatom-debug-prolog",
   "version": "0.0.0",
-  "description": "SWI-Prolog plugin for XAtom Debug",
+  "description": "SWI-Prolog plugin for xatom-debug",
   "keywords": [
   ],
   "activationCommands": {
